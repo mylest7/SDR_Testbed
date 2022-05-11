@@ -9,6 +9,7 @@ The content of this repository includes documentation that covers how to setup t
 
 # Equipment  
 * Raspberry Pi's (3B+ or 4, two different USB inputs for power supply)
+* USRP b200 mini's
 * Power Supply
 * microSD card reader for computer
 * Linux or  Windows OS 
