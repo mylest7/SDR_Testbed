@@ -1,4 +1,4 @@
-# SDR_Testbed
+# Software Defined Radio Testbed
 ![GitHub Logo](/Images/motivation.png) 
 This repository is meant to be the the central location of configuration scripts used for UCaN Lab's Testbed Controller. This tool is designed to analyze the impact of data offloading across multiple service sets under various scenarios. Rather than using real world devices with various internet based applications, these data rates will be emulated by Raspberry Pi's since these devices are easy to control/manipulate than commercial devices. All of these devices will be part of the same ethernet switch network so that a central computer acting as the Testbed Controller will be able to communicate with any of the available devices at any given time.
 
@@ -17,6 +17,9 @@ The content of this repository includes documentation that covers how to setup t
 * WiFi Routers 
 * Network Switch 
 * Ethernet cables (for connecting # of Raspberry Pi's and PC with the network switch)
+
+# Architecture  
+
 
 # Chapters
 | Chapter | Topic | Image | Link | Summary 
