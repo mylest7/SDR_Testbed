@@ -19,7 +19,7 @@ The content of this repository includes documentation that covers how to setup t
 * Ethernet cables (for connecting # of Raspberry Pi's and PC with the network switch)
 
 # Architecture  
-
+![GitHub Logo](/Images/architecture.png) 
 
 # Chapters
 | Chapter | Topic | Image | Link | Summary 
